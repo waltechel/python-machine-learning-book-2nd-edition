@@ -15,6 +15,6 @@ dependencies:
 - imageio
 - pydotplus
 - pip:
-  - tensorflow==2.0.0.a0
+  - tensorflow
   - watermark  
   - pyprind
